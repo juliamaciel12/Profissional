@@ -1,0 +1,28 @@
+table tr td, th {
+    border: 3px solid rgb(61, 61, 61);
+}
+table {
+    width: 100%;
+}
+table th {
+    background-color: rgb(247, 130, 130);
+}
+
+.linhaimpar {
+    background-color: rgb(185, 255, 255);
+
+
+}
+
+.linhapar {
+background-color: rgb(230, 212, 247);
+
+
+}
+/* .flex-container a {
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+    padding-left: 1000px;
+
+  } */

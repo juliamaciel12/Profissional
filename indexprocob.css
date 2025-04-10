@@ -1,0 +1,40 @@
+
+/* .flex-container {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding-left: 850px;
+    font-size: 20pt;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+
+.flex-container a {
+    text-decoration: none;
+    color: white;
+    width: 115px;
+  } */
+
+div.titulo-e-subtitulo{
+    width: 100%;
+    overflow: auto;
+}
+
+h1,h2,p{
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.texto-sobre-procob{
+    width: 100%;
+    overflow: auto;
+}
+
+
+img{
+    padding-left: 500px;
+    width: 40%;
+    float: right;
+}
+
+
